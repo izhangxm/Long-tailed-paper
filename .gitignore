@@ -13,7 +13,7 @@
 .*.lb
 build/
 .DS_Store
-
+*.bkp
 ## Intermediate documents:
 *.dvi
 *.xdv
